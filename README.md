@@ -16,14 +16,14 @@ Users are able to create packing lists for upcoming trips using items
 from their wardrobe.
 
 
-##Technologies used
+## Technologies used
 - Spring Boot
 - PostGresql
 - Thymeleaf
 - JPA/Hibernate
 
 
-####Default user:
+#### Default user:
  katy/password
 
-###Heroku Link: ....................
+### Heroku Link: ....................
